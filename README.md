@@ -1,4 +1,4 @@
-<img class="animated" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif">
+<img class="animated" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
 
 
 <h1 align="center">Hi 👋, I'm Naitik Chatterjee</h1>
