@@ -1,6 +1,9 @@
+
+![AI](https://github.com/git-naitik/git-naitik/assets/99355271/fa3dfd82-66ce-4c36-ada5-e1b04fbfa927)
+
 <h1 align="center">Hi 👋, I'm Naitik Chatterjee</h1>
 <h3 align="center">A passionate Data Science and Machine Learning enthusiast and also a frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxM2szd3JpamU2eHJzMXIxbXZiNTI1c3U2ODdsaGY1dWV3dHhtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently working on **Data Analytics and Deep Learning**
 
